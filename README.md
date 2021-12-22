@@ -23,3 +23,6 @@ Knowledge:
 
 ### Work:
 - Currently Studying (High School)
+
+### Get in Touch:
+E-mail: northern-64bit@protonmail.com
