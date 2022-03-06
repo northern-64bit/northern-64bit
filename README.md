@@ -5,7 +5,7 @@ Took the initative to create the [Gamestonk Terminal](https://github.com/Gamesto
 
 ### About me:
 - I'm interested in finance, mathematics and data science.
-- I'm can speak (native) swedish, (native) german & swiss german, english, (some) french & translate latin.
+- I can speak (native) swedish, (native) german & swiss german, english, (some) french & translate latin.
 - I'm always happy to collaborate on open source finance applications.
 - I'm living in sweden.
 - My goal is to become a quant.
@@ -15,6 +15,7 @@ Script in:
 - Python
 - JavaScript
 - C
+- (some) Java
 - (some) Clojure
 
 Knowledge:
