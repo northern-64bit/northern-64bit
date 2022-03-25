@@ -20,7 +20,7 @@ Script in:
 
 Knowledge:
 - Finance (stonks)
-- Mathematics (up to differential equations)
+- Mathematics (differential equations and linear algebra)
 
 ### Work:
 - Currently Studying (High School)
