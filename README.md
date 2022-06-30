@@ -1,5 +1,5 @@
 ## Greetings! I’m @northern-64bit.
-Took the initative to create the [Gamestonk Terminal](https://github.com/GamestonkTerminal/GamestonkTerminal) Discord Bot.
+Took the initative to create the [OpenBB Terminal](https://github.com/GamestonkTerminal/GamestonkTerminal) Discord Bot.
 
 ![northern-64-bit's GitHub stats](https://github-readme-stats.vercel.app/api?username=northern-64bit&show_icons=true)
 
@@ -20,7 +20,7 @@ Script in:
 
 Knowledge:
 - Finance (stonks)
-- Mathematics (differential equations and linear algebra)
+- Mathematics (multivariable calculus)
 
 ### Work:
 - Currently Studying (High School)
