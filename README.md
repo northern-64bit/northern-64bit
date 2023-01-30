@@ -19,8 +19,8 @@ Script in:
 - (some) Clojure
 
 Knowledge:
-- Finance (stonks)
-- Mathematics (multivariable calculus)
+- Finance
+- Mathematics (learning stochastic calculus)
 
 ### Work:
 - Currently Studying (High School)
